@@ -1,1 +1,1 @@
-# Shop-Around
+Online Shopping Web Project
